@@ -1,6 +1,6 @@
 import UserList from "../components/UserList";
 
-export default function User() {
+export default function Users() {
   const USERS = [
     {
       id: "u1",
