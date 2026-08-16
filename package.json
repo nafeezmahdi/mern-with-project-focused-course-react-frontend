@@ -12,7 +12,11 @@
     "react-transition-group": "^4.4.5"
   },
   "scripts": {
+<<<<<<< HEAD
     "dev": "react-scripts start",
+=======
+    "start": "react-scripts start",
+>>>>>>> 84c50b6efb8c13f66741bfbd5bc7c4257eacbc8e
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
